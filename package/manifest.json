@@ -1,0 +1,9 @@
+{
+  "name": "EnemyBarOnScreen",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Keeps the health bar of tall enemies on screen when you fight them up close. Client-side.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2360"
+  ]
+}
