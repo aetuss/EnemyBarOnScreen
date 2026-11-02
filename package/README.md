@@ -18,3 +18,7 @@ Change these in game with F1 (Configuration Manager) or in your mod manager's co
 ## Multiplayer
 
 Client-side only. It only changes what you see on your own screen, so other players and the server don't need it.
+
+## Feedback and bug reports
+
+Found a bug or have an idea? Open an issue on [GitHub](https://github.com/aetuss/EnemyBarOnScreen/issues). A screenshot of the problem helps a lot.

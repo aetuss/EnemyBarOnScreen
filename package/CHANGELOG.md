@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2
+
+- Added a link for feedback and bug reports: [GitHub Issues](https://github.com/aetuss/EnemyBarOnScreen/issues).
+
 ## 1.0.1
 
 - New icon without tagline.
