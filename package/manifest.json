@@ -1,6 +1,6 @@
 {
   "name": "EnemyBarOnScreen",
-  "version_number": "1.0.2",
+  "version_number": "1.0.3",
   "website_url": "https://github.com/aetuss/EnemyBarOnScreen",
   "description": "Keeps the health bar of tall enemies on screen when you fight them up close. Client-side.",
   "dependencies": [

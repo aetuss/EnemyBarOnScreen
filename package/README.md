@@ -22,3 +22,7 @@ Client-side only. It only changes what you see on your own screen, so other play
 ## Feedback and bug reports
 
 Found a bug or have an idea? Open an issue on [GitHub](https://github.com/aetuss/EnemyBarOnScreen/issues). A screenshot of the problem helps a lot.
+
+## Made with AI
+
+aetuss decided what this mod does and how it should work, and tested it in game. The code, the icon and this description were written by Claude, an AI model by Anthropic (through Claude Code).

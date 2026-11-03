@@ -6,6 +6,10 @@ using BepInEx.Configuration;
 using HarmonyLib;
 using UnityEngine;
 
+// Thunderstore asks mods made with AI to say so here and in the README.
+[assembly: System.Reflection.AssemblyMetadata("AI_Assisted_Creation", "This assembly was fully created with the assistance of Generative AI: the code was written by Claude (Anthropic) through Claude Code.")]
+[assembly: System.Reflection.AssemblyMetadata("AI_Model_Vendor", "Anthropic")]
+
 namespace EnemyBarOnScreen
 {
     [BepInPlugin(Guid, ModName, Version)]
@@ -13,7 +17,7 @@ namespace EnemyBarOnScreen
     {
         public const string Guid = "EnemyBarOnScreen";
         public const string ModName = "EnemyBarOnScreen";
-        public const string Version = "1.0.2";
+        public const string Version = "1.0.3";
 
         internal static ConfigEntry<bool> Enabled;
         internal static ConfigEntry<float> TopMargin;
